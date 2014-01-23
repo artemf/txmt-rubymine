@@ -7,7 +7,7 @@ If you want to open local files in RubyMine by clicking on txmt:// urls in [bett
 
 ### Installation
 
-Just download and extract app from `RubyMineTextMateHandler.zip` somewhere (no need to put in Application folder) and that's it. Now go and click on some links!
+Just download and extract app from `RubyMineTextMateHandler.zip` somewhere (no need to put in Application folder) and that's it. Now go and click some links!
 
 ### Source code
 
